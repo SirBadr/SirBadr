@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SirBadr
-- 👀 AIOT
+- 👀 Blockchain developer
 - 🌱 Deep learning
 - 💞️ Deep learning and IOT projects
 - 📫 mahmoudbadr9199@gmail.com
