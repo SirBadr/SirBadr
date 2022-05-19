@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SirBadr
-- 👀 Blockchain developer
-- 🌱 Deep learning
-- 💞️ Deep learning and IOT projects
+- 👀 Blockchain developer || AI researcher
 - 📫 mahmoudbadr9199@gmail.com
 <!---
 SirBadr/SirBadr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
